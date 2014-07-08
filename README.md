@@ -26,4 +26,3 @@ General notes/limitations:
 - All code blocks are assumed to be Python code blocks.
 - Output is simply deleted.
 - Everything else is put in Markdown cells.
-- Double backslashes are handled properly only if you have the development version of IPython.  Otherwise, you should convert them to quadruple backslashes.
